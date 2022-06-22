@@ -1,2 +1,3 @@
 # Excel to Power BI
- The purpose of this project is to convert information from a table on Excel to Power BI to be able to create charts to visualize data
+#Background
+Over 700 orders have been placed for this cookie company to various different countries. Each order contains a different amount of units sold which in terms affects the revenue and profit per order.
