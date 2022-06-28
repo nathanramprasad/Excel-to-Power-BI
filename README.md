@@ -1,5 +1,5 @@
 # Excel to Power BI
-# Background
+## Background
 Several hundreds of orders have been placed for this cookie company to various different countries. Each order contains a different amount of units sold which in terms affects the revenue and profit per order. The purpose of this project is to transfer the data from the excel spreadsheet to Power BI to display the data visually to make presentation of the data easily to explain
 ## Excel data
 On the excel spreadsheet a table has been created to track all of the orders that this cookie company has received from the year 2019. They have received 700 orders ranging from the countries of United States, Mexico, Canada, Germany and France. Each order placed is tracked and displays the cookie type that was sold, this company sells Chocolate Chip cookies, fortune cookies, oatmeal raisin cookies, snickerdoodle cookies, sugar cookies and white chocolate macadamia nut cookies. Each order also displays the revenue that was made from the purchase and also the cost per order while tracking the profit of each order.
